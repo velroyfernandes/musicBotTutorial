@@ -327,4 +327,4 @@ async def splay(ctx: commands.Context, *, search: str):
     except Exception:
         setattr(vc, "loop", False)
 
-bot.run("token")
+bot.run("ODc1NjIxODYxOTczNzE3MDYy.YRYMaA.3jxcVabj95JwAQsDVe_lQujNYdM")
